@@ -112,7 +112,7 @@
         - Flexible network design that can be tailored to specific needs
 
 ## Three Tier Model
-![Three Tier Architecture](thre-tier.png)
+![Three Tier Architecture](images/three-tier.png)
 - Three tier hierarchical model is a structured approach to network design
 - Breaks down networks into three distinct layers
 - Each layer is designed for a specific purpose
@@ -134,7 +134,7 @@
     - Provides connectivity to desktop PC's laptops and other network devices
 
 ## Spine and Leaf architecture
-![Spine Leaf Architecture](spine-leaf.png)
+![Spine Leaf Architecture](images/spine-leaf.png)
 - Two layer network topology
 - Highly scalable and minimizes latency
 - Ensures every leaf switch (access layer) is seperated by no more than two switches from any other leaf switch
@@ -147,7 +147,7 @@
 - Ideal for small to medium sized networks where managing seperate layers is unnecessary
 
 ## North South vs East West Traffic
-![North South vs East West Traffic](north-south-east-west.png)
+![North South vs East West Traffic](images/north-south-east-west.png)
 - ### North-South Traffic
     - Describes the flow of traffic between the data center and the internet/other data centers
     - Focused on inbound/outbound traffic
