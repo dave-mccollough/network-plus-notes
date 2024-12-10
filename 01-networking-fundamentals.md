@@ -117,18 +117,18 @@
 - Breaks down networks into three distinct layers
 - Each layer is designed for a specific purpose
 
-- Core Layer
+- **Core Layer**
     - Backbone of the network
     - Handles high speed packet switching across the entire network
     - Responsible for fast and reliable routing
     - Should have fault tolerance and high redundancy
 
-- Distribution Layer
+- **Distribution Layer**
     - Intermediary layer between core and access layers
     - Manages routing, filter and WAN access
     - Aggregates data received from the access layer switches before it is transmitted to the core layer for routing to its final destination
 
-- Access Layer
+- **Access Layer**
     - Network point of entry for devices and end users
     - This layer includes switches and access points
     - Provides connectivity to desktop PC's laptops and other network devices
